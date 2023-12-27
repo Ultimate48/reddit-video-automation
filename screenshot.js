@@ -43,7 +43,7 @@ async function takeElementScreenshot(url, elementSelector, outputFileName) {
 }
 
 // Example usage
-const webpageUrl = 'https://www.reddit.com/r/ask/comments/18ramj4/straight_men_can_you_tell_if_anpther_guy_is/';
+const webpageUrl = 'URL';
 const targetElementSelector = 'h1';
 const outputFilename = './Assets/element_screenshot.png';
 
